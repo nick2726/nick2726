@@ -55,8 +55,7 @@
 * **Portfolio Website**
   Personal site to showcase projects
 
-* **Arduino Autopilot**
-  Hardware + software project exploring automation
+
 
 ---
 
@@ -70,4 +69,7 @@
 
 ## 📫 Contact
 
-* LinkedIn: (add your link)
+* LinkedIn: https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/
+* Phone: 9508829371
+* Email: nikhilnkj2627@gmail.com
+  
