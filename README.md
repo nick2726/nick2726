@@ -114,11 +114,6 @@ I am a pre-final year Computer Science student at Siksha 'O' Anusandhan Universi
 
 ---
 
-## 🌐 Connect
-- LinkedIn: https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/
-- Email: nikhilnkj2627@gmail.com
-
----
 
 ## ⚡ Positioning Statement
 > Focused on transitioning from learning to building production-grade systems with measurable impact.
