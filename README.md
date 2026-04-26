@@ -6,9 +6,9 @@
 
 ## 🧠 About Me
 
-I am a pre-final year Computer Science student at Siksha 'O' Anusandhan University with professional experience as an Assistant Manager in Investment Banking. My technical focus lies in designing intelligent systems, deploying computer vision architectures, and building production-ready scalable backends. 
+I am a pre-final year Computer Science student at Siksha 'O' Anusandhan University. My technical focus lies in designing intelligent systems, deploying computer vision architectures, and building production-ready scalable backends. 
 
-- 🔭 **Currently Building:** **Jal Vistaar**, an advanced AI assistant utilizing Retrieval-Augmented Generation (RAG) and Llama 3.
+- 🔭 **Currently Building:** **Ai attendance tracker**, an advanced AI assistant utilizing Retrieval-Augmented Generation (RAG) and Llama 3.
 - ⚙️ **Engineering Focus:** Computer Vision, Natural Language Processing, Deep Learning, and Multi-Agent LLM architectures.
 - 🏆 **Competitive Programming:** Solved **500+ problems** across LeetCode, CodeChef, and Codeforces (LeetCode Rating: **1416**).
 - 🤝 **Open to Collaboration:** Deep learning research, FinTech automation, and open-source AI tooling.
@@ -58,11 +58,6 @@ I am a pre-final year Computer Science student at Siksha 'O' Anusandhan Universi
 * **Tech:** LangGraph, ChromaDB, Python
 * **Description:** Designed a sophisticated AI customer support architecture. Orchestrated a multi-agent system utilizing specialized agents (Triage, Retriever, and Compliance) to handle complex, domain-specific e-commerce queries accurately and securely.
 
-### 💧 Jal Vistaar
-* **Tech:** Llama 3, RAG Pipeline
-* **Description:** Developing an intelligent, context-aware AI assistant leveraging Retrieval-Augmented Generation to synthesize and provide precise information from specialized datasets.
-
----
 
 ## 📊 GitHub Analytics
 
@@ -89,13 +84,6 @@ I am a pre-final year Computer Science student at Siksha 'O' Anusandhan Universi
 </p>
 
 
-# 👋 Nikhil Kumar Jha
-
-### 🚀 Backend Engineer | Systems Builder | Performance-Driven Developer
-
-I design and build scalable, production-grade systems with a strong emphasis on performance, reliability, and clean architecture.
-
----
 
 ## ⚡ Strategic Focus
 - Engineering high-performance backend systems
@@ -110,33 +98,6 @@ I design and build scalable, production-grade systems with a strong emphasis on 
 - Backend Development (Node.js, APIs)
 - Data Structures & Algorithms
 - Database Optimization
-
----
-
-## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, Python, C++  
-**Backend:** Node.js, Express  
-**Frontend:** React  
-**Database:** MongoDB, PostgreSQL  
-**Tools:** Docker, Git, Linux
-
----
-
-## 📌 Flagship Work
-
-### 🔹 Jarvis AI Assistant
-- Voice-controlled automation system
-- Modular architecture for extensibility
-- Real-world task execution
-
-### 🔹 Real-Time Systems (Slack / Chat Clone)
-- WebSocket-based communication
-- Low-latency messaging architecture
-- Scalable design patterns
-
-### 🔹 System-Focused Builds
-- API-driven backend services
-- Performance-optimized applications
 
 ---
 
