@@ -8,20 +8,10 @@
 
 I am a pre-final year Computer Science student at Siksha 'O' Anusandhan University. My technical focus lies in designing intelligent systems, deploying computer vision architectures, and building production-ready scalable backends. 
 
-- 🔭 **Currently Building:** **AI Attendance Tracker**, an advanced AI assistant utilizing Retrieval-Augmented Generation (RAG) and Llama 3.
+- 🔭 **Currently Building:** **Ai attendance tracker**, an advanced AI assistant utilizing Retrieval-Augmented Generation (RAG) and Llama 3.
 - ⚙️ **Engineering Focus:** Computer Vision, Natural Language Processing, Deep Learning, and Multi-Agent LLM architectures.
 - 🏆 **Competitive Programming:** Solved **500+ problems** across LeetCode, CodeChef, and Codeforces (LeetCode Rating: **1416**).
 - 🤝 **Open to Collaboration:** Deep learning research, FinTech automation, and open-source AI tooling.
-
----
-
-## ⚡ Engineering Philosophy & Core Competencies
-
-> *"Build systems, not just projects. Optimize for scalability from day one. Prioritize clarity and maintainability."*
-
-- **System Design:** Scalability, distributed architectures, caching, and load handling.
-- **Backend Architecture:** Engineering high-performance, production-ready REST APIs.
-- **AI Integration:** Bridging the gap between raw machine learning models and usable software.
 
 ---
 
@@ -68,7 +58,6 @@ I am a pre-final year Computer Science student at Siksha 'O' Anusandhan Universi
 * **Tech:** LangGraph, ChromaDB, Python
 * **Description:** Designed a sophisticated AI customer support architecture. Orchestrated a multi-agent system utilizing specialized agents (Triage, Retriever, and Compliance) to handle complex, domain-specific e-commerce queries accurately and securely.
 
----
 
 ## 📊 GitHub Analytics
 
@@ -96,5 +85,35 @@ I am a pre-final year Computer Science student at Siksha 'O' Anusandhan Universi
 
 
 
+## ⚡ Strategic Focus
+- Engineering high-performance backend systems
+- Designing scalable APIs and distributed architectures
+- Solving complex algorithmic problems
+- Building real-world, production-ready applications
+
+---
+
+## 🧠 Core Competencies
+- System Design (Scalability, Caching, Load Handling)
+- Backend Development (Node.js, APIs)
+- Data Structures & Algorithms
+- Database Optimization
+
+---
+
+## 📊 Engineering Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2726&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&hide_border=true)
+
+---
+
+## 🧠 Engineering Philosophy
+- Build systems, not just projects
+- Optimize for scalability from day one
+- Prioritize clarity and maintainability
+
+---
 
 
+## ⚡ Positioning Statement
+> Focused on transitioning from learning to building production-grade systems with measurable impact.
