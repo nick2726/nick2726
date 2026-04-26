@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Nikhil%20Kumar%20Jha&fontColor=ffffff&fontSize=40&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=800&lines=Lead+AI+Developer;Computer+Vision+%26+NLP+Specialist;Assistant+Manager+(Investment+Banking);Bridging+Finance+and+Generative+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=800&lines=Lead+AI+Developer;Computer+Vision+%26+NLP+Specialist;Generative+AI" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me
