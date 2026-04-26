@@ -1,75 +1,72 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=160&section=header&text=Nikhil&fontColor=ffffff&fontSize=32&animation=fadeIn"/>
-</p>
+# 👋 Nikhil Kumar Jha
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=600&lines=Jarvis+AI+Developer;Building+Real+Projects;APIs+%7C+Systems+%7C+Automation;Learning+by+Breaking+Things"/>
-</p>
+### 🚀 Backend Engineer | Systems Builder | Performance-Driven Developer
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nick2726&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
-```bash
-> status: building, experimenting, improving
-```
+I design and build scalable, production-grade systems with a strong emphasis on performance, reliability, and clean architecture.
 
 ---
 
-## ⚙️ What I'm Doing
+## ⚡ Strategic Focus
+- Engineering high-performance backend systems
+- Designing scalable APIs and distributed architectures
+- Solving complex algorithmic problems
+- Building real-world, production-ready applications
 
-* Rebuilding real-world apps to understand how they work
-* Working on **Jarvis AI Assistant**
-* Exploring backend systems and APIs
+---
+
+## 🧠 Core Competencies
+- System Design (Scalability, Caching, Load Handling)
+- Backend Development (Node.js, APIs)
+- Data Structures & Algorithms
+- Database Optimization
 
 ---
 
 ## 🛠 Tech Stack
-
-* Languages: JavaScript, Python, C++
-* Frontend: HTML, CSS, React
-* Backend: Node.js (learning)
-* Tools: Git, GitHub, Postman
-
----
-
-## 📊 Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2726\&show_icons=true\&hide_border=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726\&layout=compact\&hide_border=true\&theme=dark)
+**Languages:** JavaScript, TypeScript, Python, C++  
+**Backend:** Node.js, Express  
+**Frontend:** React  
+**Database:** MongoDB, PostgreSQL  
+**Tools:** Docker, Git, Linux
 
 ---
 
-## 📌 Selected Work
+## 📌 Flagship Work
 
-* **Jarvis (AI Assistant)**
-  A voice-controlled assistant that automates tasks and responds to commands
+### 🔹 Jarvis AI Assistant
+- Voice-controlled automation system
+- Modular architecture for extensibility
+- Real-world task execution
 
-* **Spotify Clone**
-  Built to understand UI structure and media handling
+### 🔹 Real-Time Systems (Slack / Chat Clone)
+- WebSocket-based communication
+- Low-latency messaging architecture
+- Scalable design patterns
 
-* **Slack Clone**
-  Recreated messaging features to explore real-time systems
-
-* **Portfolio Website**
-  Personal site to showcase projects
-
-
-
----
-
-## 🧠 How I Work
-
-* Build > Watch
-* Clarity > Complexity
-* Consistency > Motivation
+### 🔹 System-Focused Builds
+- API-driven backend services
+- Performance-optimized applications
 
 ---
 
-## 📫 Contact
+## 📊 Engineering Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nick2726&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&hide_border=true)
 
-* LinkedIn: https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/
-* Phone: 9508829371
-* Email: nikhilnkj2627@gmail.com
-  
+---
+
+## 🧠 Engineering Philosophy
+- Build systems, not just projects
+- Optimize for scalability from day one
+- Prioritize clarity and maintainability
+
+---
+
+## 🌐 Connect
+- LinkedIn: https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/
+- Email: nikhilnkj2627@gmail.com
+
+---
+
+## ⚡ Positioning Statement
+> Focused on transitioning from learning to building production-grade systems with measurable impact.
