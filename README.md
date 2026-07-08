@@ -276,6 +276,85 @@ Building intelligent systems that solve real business problems at scale.
 
 </table>
 
+
+# ⚙️ Production Engineering
+
+<table>
+
+<tr>
+
+<td align="center" width="20%">
+
+### 🏗️ Architecture
+
+Modular Design
+
+Clean Architecture
+
+Scalable Components
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀 Backend
+
+REST APIs
+
+Authentication
+
+Caching
+
+Async Processing
+
+</td>
+
+<td align="center" width="20%">
+
+### ☁️ DevOps
+
+Docker
+
+AWS
+
+GitHub Actions
+
+Kubernetes
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠 AI Systems
+
+Multi-Agent AI
+
+RAG
+
+MCP
+
+LLM Integration
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊 Databases
+
+PostgreSQL
+
+Redis
+
+SQLite
+
+Vector Databases
+
+</td>
+
+</tr>
+
+</table>
+
 # 💡 Engineering Philosophy
 
 ```text
