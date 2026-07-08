@@ -85,8 +85,6 @@ Building intelligent systems that solve real business problems at scale.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=2&section=header"/>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilnkj27@gmail.com) 
 
 # 🛠️ Technology Radar
 
@@ -432,6 +430,15 @@ My repositories are designed with:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+If you're interested in AI Systems, Backend Engineering, or Production Software, feel free to connect.
+
+</p>
+
 # 🤝 Let's Connect
 
 <p align="center">
@@ -452,13 +459,7 @@ My repositories are designed with:
 
 ---
 
-<p align="center">
 
-⭐ Thanks for visiting my profile.
-
-If you're interested in AI Systems, Backend Engineering, or Production Software, feel free to connect.
-
-</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nick2726&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
