@@ -150,7 +150,9 @@ Building intelligent systems that solve real business problems at scale.
 </tr>
 
 </table>
-# 📊 GitHub Stats:
+
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nick2726&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -161,4 +163,4 @@ Building intelligent systems that solve real business problems at scale.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nick2726&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
