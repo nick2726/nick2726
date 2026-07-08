@@ -379,24 +379,6 @@ I build software that is:
 ✔ Built for Real Users
 ```
 
-# 🏗️ System Design Interests
-
-```text
-Microservices
-        │
-        ▼
-Distributed Systems
-        │
-        ▼
-AI Agent Orchestration
-        │
-        ▼
-Cloud Native Applications
-        │
-        ▼
-Enterprise AI Platforms
-```
-
 
 # 🎯 Currently Building
 
@@ -413,6 +395,18 @@ D --> E[Cloud Native Deployment]
 
 E --> F[Production AI Products]
 ```
+
+
+# 📚 2026 Learning Roadmap
+
+| Quarter | Focus |
+|----------|-------|
+| ✅ Q1 | Advanced Backend Engineering |
+| ✅ Q2 | Multi-Agent AI Systems |
+| 🚀 Q3 | Model Context Protocol (MCP) |
+| 🚀 Q3 | Kubernetes & Cloud Deployment |
+| 🎯 Q4 | Distributed Systems |
+| 🎯 Q4 | Production AI Infrastructure |
 
 
 # 📊 GitHub Analytics
