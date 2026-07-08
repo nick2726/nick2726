@@ -409,19 +409,34 @@ E --> F[Production AI Products]
 | 🎯 Q4 | Production AI Infrastructure |
 
 
+# 🌍 Open Source Philosophy
+
+I believe great software is built through collaboration.
+
+My repositories are designed with:
+
+- 📖 Clear Documentation
+- 🏗️ Clean Project Structure
+- 🐳 Docker Support
+- 🧪 Testing
+- 🔒 Security Best Practices
+- 📦 Reusable Components
+- 🤝 Community Contributions
+
+
 # 📊 GitHub Analytics
 
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nick2726&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nick2726&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=nick2726&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
