@@ -17,6 +17,34 @@ Building Production-Grade AI Systems • Multi-Agent AI • RAG • MCP • Back
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Products;Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);Model+Context+Protocol+(MCP);Backend+Engineering;FastAPI+%7C+Docker+%7C+PostgreSQL;Software+Development+Engineer+(AI%2FBackend)" />
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-SDE%20AI%20Roles-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Production%20AI-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Node.js-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20AWS-informational?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nikhilnkj27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nick2726">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 
 # 💫 About Me:
 🚀 Final year Computer Science Engineering student passionate about building production-ready AI systems.<br><br>💡 I specialize in:<br>• AI Agents & Multi-Agent Systems<br>• Retrieval-Augmented Generation (RAG)<br>• Model Context Protocol (MCP)<br>• Full Stack Development<br>• System Design<br>• Competitive Programming<br><br>🌱 Currently building enterprise-grade AI applications instead of demo projects.<br><br>🎯 Goal: Software Development Engineer (AI/Backend) roles in product-based companies.<br><br>⚡ Fun fact: I enjoy turning complex business problems into scalable AI products.<br>
