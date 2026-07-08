@@ -151,6 +151,131 @@ Building intelligent systems that solve real business problems at scale.
 
 </table>
 
+# 🏆 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💹 Multi-Agent Financial Research Analyst
+
+> Enterprise-grade AI platform for autonomous financial research using specialized AI agents.
+
+### 🚀 Highlights
+
+- 🤖 Multi-Agent Architecture
+- 📈 Financial Analysis
+- 📄 SEC Filing Intelligence
+- 🧠 Investment Thesis Generation
+- 🔍 Peer Comparison
+- ⚡ FastAPI Backend
+- 🐳 Docker Ready
+- 🗄️ PostgreSQL
+
+### Tech Stack
+
+`Python` `FastAPI` `LangGraph`
+`Gemini` `Docker`
+`PostgreSQL`
+
+<a href="https://github.com/nick2726/multi-agent-financial-research-analyst">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚗 CARVIS AI
+
+> Intelligent in-vehicle AI assistant focused on driver safety and real-time decision support.
+
+### 🚀 Highlights
+
+- 👁 Driver Monitoring
+- 😴 Drowsiness Detection
+- 😊 Emotion Recognition
+- 🎙 Voice Assistant
+- 🚘 Computer Vision
+- 🤖 AI Decision Engine
+
+### Tech Stack
+
+`Python`
+`YOLO`
+`OpenCV`
+`TensorFlow`
+
+<a href="https://github.com/nick2726/JARVIS-Car-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ Secure Express API
+
+> Production-ready Express.js security template implementing authentication and API hardening.
+
+### 🚀 Highlights
+
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control
+- 🛡 Helmet Security
+- 🚦 Rate Limiting
+- 🔒 HTTPS Ready
+- ⚙️ Production Configuration
+
+### Tech Stack
+
+`Node.js`
+`Express`
+`JWT`
+`Helmet`
+
+<a href="https://github.com/nick2726/secure_express_api">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 ShopCart AI
+
+> AI-powered e-commerce platform with intelligent shopping features.
+
+### 🚀 Highlights
+
+- 🛍 Smart Shopping
+- 🤖 AI Features
+- 📱 Responsive UI
+- 🔐 Authentication
+- 📦 Product Management
+
+### Tech Stack
+
+`JavaScript`
+`React`
+`Node.js`
+
+<a href="https://github.com/nick2726/ShopCart--AI-Powered-Smart-ECommerce-Platform">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
