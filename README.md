@@ -46,8 +46,41 @@ Building Production-Grade AI Systems • Multi-Agent AI • RAG • MCP • Back
 </p>
 
 
-# 💫 About Me:
-🚀 Final year Computer Science Engineering student passionate about building production-ready AI systems.<br><br>💡 I specialize in:<br>• AI Agents & Multi-Agent Systems<br>• Retrieval-Augmented Generation (RAG)<br>• Model Context Protocol (MCP)<br>• Full Stack Development<br>• System Design<br>• Competitive Programming<br><br>🌱 Currently building enterprise-grade AI applications instead of demo projects.<br><br>🎯 Goal: Software Development Engineer (AI/Backend) roles in product-based companies.<br><br>⚡ Fun fact: I enjoy turning complex business problems into scalable AI products.<br>
+# 🚀 Building Production-Grade AI Systems
+
+I'm a final-year Computer Science Engineering student passionate about designing scalable software and enterprise AI systems.
+
+### 🎯 Core Expertise
+
+- 🤖 Multi-Agent AI Systems
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 Model Context Protocol (MCP)
+- ⚙️ Backend Engineering
+- ☁️ Cloud & DevOps
+- 🏗️ System Design
+
+---
+
+### 💡 What I Build
+
+Instead of tutorial projects, I build production-ready software featuring:
+
+- Modular Architecture
+- REST APIs
+- Authentication
+- Dockerized Deployment
+- Database Design
+- AI Agent Orchestration
+- Enterprise Folder Structures
+- CI/CD Ready Development
+
+---
+
+### 🎯 Career Goal
+
+Software Development Engineer (AI/Backend)
+
+Building intelligent systems that solve real business problems at scale.
 
 
 ## 🌐 Socials:
