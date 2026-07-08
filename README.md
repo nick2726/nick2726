@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nick2726/nick2726/main/assets/ChatGPT Image Jul 8, 2026, 12_07_14 PM.png" width="100%" alt="GitHub Banner"/>
+</p>
+
 # 💫 About Me:
 🚀 Final year Computer Science Engineering student passionate about building production-ready AI systems.<br><br>💡 I specialize in:<br>• AI Agents & Multi-Agent Systems<br>• Retrieval-Augmented Generation (RAG)<br>• Model Context Protocol (MCP)<br>• Full Stack Development<br>• System Design<br>• Competitive Programming<br><br>🌱 Currently building enterprise-grade AI applications instead of demo projects.<br><br>🎯 Goal: Software Development Engineer (AI/Backend) roles in product-based companies.<br><br>⚡ Fun fact: I enjoy turning complex business problems into scalable AI products.<br>
 
