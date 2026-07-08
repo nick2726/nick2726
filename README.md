@@ -301,6 +301,23 @@ I build software that is:
 ```
 
 
+# 🎯 Currently Building
+
+```mermaid
+graph TD
+
+A[Learning] --> B[Distributed Systems]
+
+B --> C[Multi-Agent AI]
+
+C --> D[Enterprise MCP]
+
+D --> E[Cloud Native Deployment]
+
+E --> F[Production AI Products]
+```
+
+
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nick2726&theme=merko&hide_border=false)<br/>
