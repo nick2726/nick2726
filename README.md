@@ -379,6 +379,24 @@ I build software that is:
 ✔ Built for Real Users
 ```
 
+# 🏗️ System Design Interests
+
+```text
+Microservices
+        │
+        ▼
+Distributed Systems
+        │
+        ▼
+AI Agent Orchestration
+        │
+        ▼
+Cloud Native Applications
+        │
+        ▼
+Enterprise AI Platforms
+```
+
 
 # 🎯 Currently Building
 
