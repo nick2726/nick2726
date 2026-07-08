@@ -1,168 +1,25 @@
-````md
-<!-- ========================================================= -->
-<!--                     GITHUB PROFILE                        -->
-<!-- ========================================================= -->
+# 💫 About Me:
+🚀 Final year Computer Science Engineering student passionate about building production-ready AI systems.<br><br>💡 I specialize in:<br>• AI Agents & Multi-Agent Systems<br>• Retrieval-Augmented Generation (RAG)<br>• Model Context Protocol (MCP)<br>• Full Stack Development<br>• System Design<br>• Competitive Programming<br><br>🌱 Currently building enterprise-grade AI applications instead of demo projects.<br><br>🎯 Goal: Software Development Engineer (AI/Backend) roles in product-based companies.<br><br>⚡ Fun fact: I enjoy turning complex business problems into scalable AI products.<br>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1D4ED8,100:38BDF8&text=Nikhil%20Kumar%20Jha&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Building%20Production-Ready%20AI%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilnkj27@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nick2726&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer;Multi-Agent+Systems;Retrieval-Augmented+Generation+(RAG);Model+Context+Protocol+(MCP);Backend+Engineering;Cloud-Native+Applications;Always+Learning.+Always+Shipping." />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nick2726&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br><br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/nick2726">
-<img src="https://komarev.com/ghpvc/?username=nick2726&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/nick2726?tab=followers">
-<img src="https://img.shields.io/github/followers/nick2726?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/nick2726">
-<img src="https://img.shields.io/github/stars/nick2726?style=for-the-badge"/>
-</a>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nick2726&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-# 👋 Hello, I'm Nikhil Kumar Jha
-
-### AI Engineer • Backend Developer • Computer Science Student
-
-I enjoy building **production-ready AI applications** that solve real-world business problems through modern backend engineering, autonomous AI agents, and cloud-native architecture.
-
-Instead of creating isolated demo projects, I focus on designing scalable systems with clean architecture, modular components, API-first development, and production deployment.
-
-My long-term goal is to become a **Software Development Engineer specializing in AI and Backend Engineering**.
-
----
-
-# 🚀 Current Focus
-
-<div align="center">
-
-| 🔭 Building | 📚 Learning | 🎯 Goal |
-|-------------|------------|---------|
-| Enterprise Multi-Agent Financial Research Platform | Distributed Systems | AI / Backend Software Engineer |
-| CARVIS AI | Cloud Native Development | Production AI Systems |
-| Premium Portfolio Website | Kubernetes | Open Source Contributions |
-| AI Coding Assistant | System Design | Scalable Backend Engineering |
-
-</div>
-
----
-
-# 💫 About Me
-
-```yaml
-Name: Nikhil Kumar Jha
-
-Role:
-  - AI Engineer
-  - Backend Developer
-
-Education:
-  - Final Year Computer Science Engineering Student
-
-Current Interests:
-  - Multi-Agent Systems
-  - Retrieval-Augmented Generation
-  - Model Context Protocol
-  - Backend Engineering
-  - Distributed Systems
-  - Cloud Native Applications
-
-Currently Exploring:
-  - LangGraph
-  - AI Orchestration
-  - Kubernetes
-  - AI Infrastructure
-  - Large Language Models
-
-Career Goal:
-  - Build enterprise-grade AI products
-```
-
----
-
-# 🧠 Engineering Philosophy
-
-> **"Good software isn't measured by how many technologies it uses—it's measured by how reliably it solves real problems."**
-
-I enjoy working on projects that emphasize:
-
-- 🏗 Clean Architecture
-- ⚙️ Backend Engineering
-- 🤖 AI Agent Systems
-- 📦 Production Readiness
-- ☁️ Cloud Deployment
-- 📈 Scalability
-- 🧪 Maintainability
-- 🔄 Continuous Improvement
-
----
-
-# 🎯 Core Expertise
-
-<div align="center">
-
-| 🤖 AI Engineering | ⚙️ Backend Engineering | ☁️ Cloud & DevOps |
-|:-----------------:|:----------------------:|:-----------------:|
-| Multi-Agent Systems | FastAPI | Docker |
-| RAG | REST APIs | Kubernetes |
-| MCP | Authentication | AWS |
-| LangGraph | Microservices | Google Cloud |
-| Prompt Engineering | System Design | CI/CD |
-
-</div>
-
----
-
-# 🔭 Featured Focus Areas
-
-<div align="center">
-
-| Artificial Intelligence | Software Engineering | Cloud Computing |
-|:-----------------------:|:--------------------:|:---------------:|
-| Autonomous AI Agents | Backend APIs | Docker |
-| RAG Pipelines | Scalable Services | Kubernetes |
-| LLM Applications | Distributed Systems | AWS |
-| MCP Integration | Clean Architecture | GCP |
-| AI Workflows | API-First Development | DevOps |
-
-</div>
-
----
-
-# 📅 2026 Engineering Roadmap
-
-```text
-✓ Build Production-Ready AI Products
-
-✓ Master Multi-Agent Systems
-
-✓ Deploy Cloud-Native Applications
-
-✓ Strengthen Distributed Systems Knowledge
-
-✓ Contribute to Open Source
-
-✓ Build an Outstanding Engineering Portfolio
-
-✓ Secure an AI / Backend Software Engineering Role
-```
-
----
-
-<div align="center">
-
-### 💬 "Building intelligent software with clean architecture, scalable systems, and real-world impact."
-
-</div>
-
----
-````
+[![](https://komarev.com/ghpvc/?username=nick2726&icon=2&color=0)](https://visitcount.itsvg.in)
