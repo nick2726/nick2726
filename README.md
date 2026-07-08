@@ -76,24 +76,6 @@ Software Development Engineer (AI / Backend)
 📍 India
 ```
 
----
-
-# 🧠 Engineering Philosophy
-
-> "A great engineer doesn't build the most projects.
-> They build systems that people can depend on."
-
-I believe software engineering is not just about writing code.
-
-It is about
-
-- Designing scalable architectures
-- Writing maintainable code
-- Building production-ready software
-- Solving business problems
-- Continuously improving developer experience
-
----
 
 # 🎯 Core Expertise
 
@@ -197,99 +179,6 @@ GitHub Actions
 
 ---
 
-# 🚗 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🚗 CARVIS AI
-
-AI-powered in-vehicle assistant focused on driver safety using Computer Vision and Artificial Intelligence.
-
-### Highlights
-
-* Driver Monitoring
-* Drowsiness Detection
-* Emotion Recognition
-* Voice Assistant
-* Object Detection
-* Safety Alerts
-
-**Status**
-
-🚧 Active Development
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Coding Assistant
-
-Enterprise developer assistant powered by Multi-Agent Systems, MCP, and Retrieval-Augmented Generation.
-
-### Planned Features
-
-* Repository Chat
-* AI Code Review
-* Documentation Generator
-* Pull Request Analysis
-* Autonomous Agents
-
-**Status**
-
-📅 Coming Soon
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🌐 Developer Portfolio
-
-Modern portfolio showcasing projects, architecture diagrams, blogs, and engineering case studies.
-
-### Features
-
-* Modern UI
-* Animated Experience
-* Resume
-* Blogs
-* GitHub Integration
-* Live Projects
-
-**Status**
-
-🚧 In Progress
-
-</td>
-
-<td width="50%">
-
-## 🛕 Temple Reservation Platform
-
-Full-stack reservation platform with secure authentication, booking workflows, payment integration, and QR-based verification.
-
-### Highlights
-
-* Authentication
-* Booking Engine
-* Payment Workflow
-* QR Generation
-* Responsive UI
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🏗 Engineering Domains
 
@@ -324,27 +213,6 @@ Full-stack reservation platform with secure authentication, booking workflows, p
 📦 Production-Ready AI APIs
 ```
 
----
-
-# 📌 Engineering Principles
-
-```text
-✔ Clean Architecture
-
-✔ Scalable Backend Design
-
-✔ Modular Development
-
-✔ Production-First Mindset
-
-✔ API-First Development
-
-✔ Cloud Native Deployment
-
-✔ Continuous Learning
-
-✔ Real-World Problem Solving
-```
 
 ---
 
