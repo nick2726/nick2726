@@ -2,6 +2,22 @@
   <img src="https://raw.githubusercontent.com/nick2726/nick2726/main/assets/ChatGPT Image Jul 8, 2026, 12_07_14 PM.png" width="100%" alt="GitHub Banner"/>
 </p>
 
+
+<h1 align="center">
+Hi 👋 I'm Nikhil Kumar Jha
+</h1>
+
+<p align="center">
+
+Building Production-Grade AI Systems • Multi-Agent AI • RAG • MCP • Backend Engineering
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Products;Multi-Agent+AI+Systems;Retrieval-Augmented+Generation+(RAG);Model+Context+Protocol+(MCP);Backend+Engineering;FastAPI+%7C+Docker+%7C+PostgreSQL;Software+Development+Engineer+(AI%2FBackend)" />
+</p>
+
+
 # 💫 About Me:
 🚀 Final year Computer Science Engineering student passionate about building production-ready AI systems.<br><br>💡 I specialize in:<br>• AI Agents & Multi-Agent Systems<br>• Retrieval-Augmented Generation (RAG)<br>• Model Context Protocol (MCP)<br>• Full Stack Development<br>• System Design<br>• Competitive Programming<br><br>🌱 Currently building enterprise-grade AI applications instead of demo projects.<br><br>🎯 Goal: Software Development Engineer (AI/Backend) roles in product-based companies.<br><br>⚡ Fun fact: I enjoy turning complex business problems into scalable AI products.<br>
 
