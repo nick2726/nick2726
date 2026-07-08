@@ -318,10 +318,21 @@ E --> F[Production AI Products]
 ```
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nick2726&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nick2726&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nick2726&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
