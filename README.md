@@ -424,24 +424,41 @@ My repositories are designed with:
 - 🤝 Community Contributions
 
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nick2726&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=nick2726&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick2726&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nick2726&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nick2726&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:nikhilnkj27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-kumar-jha-b7650b24b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nick2726">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+If you're interested in AI Systems, Backend Engineering, or Production Software, feel free to connect.
+
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nick2726&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
